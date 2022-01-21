@@ -13,8 +13,6 @@
 <h2>Contexto del proyecto</h2>
 <p> Crear una replica de una landing page sobre educamas.
 
-Desarrolla una web para la escuela de música "Toquen el DOM", en la que los usuarios pueden acceder al instrumento de su preferencia y practicar en él de forma didáctica. El diseño de la web queda a su criterio, aunque cabe aclarar que en los requerimientos de la escuela está la creatividad como punto importante a tener en cuenta.
-
 </p>
 
 <h2>⚙️ Contexto del proyecto ⚙️</h2>
